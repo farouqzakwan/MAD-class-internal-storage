@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Storage</string>
+    <string name="setting">Setting</string>
+    <string name="hello">Hello Word</string>
+    <string name="save">Save To Internal Storage</string>
+    <string name="load">Load From Internal Storage</string>
+</resources>
